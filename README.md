@@ -9,7 +9,7 @@ In order to run the code you need the two libraries that we used installed on yo
 - Tensorflow : we are using Tensorflow as a backend without calling it directly so any up to date version of Tensorflow will work
 
 ### Download our trained Model (~ 100 MB) : 
-Trained model is available on this google Drive  resnet50_5classes.h5
+Trained model is available on this google Drive  https://drive.google.com/file/d/1DDI2MXrvIz_KEOxaNozUHuvadfS1ovf2/view
 
 ### Runing
 You have to have your target image stored in the same directory under the name "target.jpg" or "target.jpeg" 
