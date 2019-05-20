@@ -14,3 +14,5 @@ Trained model is available on this google Drive  https://drive.google.com/file/d
 ### Runing
 You have to have your target image stored in the same directory under the name "target.jpg" or "target.jpeg" 
 Dowloaded weights resnet50_5classes.h5 has to be also in the same directory.
+### How it works
+![](ImagesHow_it_works.png)
